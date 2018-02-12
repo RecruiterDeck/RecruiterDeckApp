@@ -1,0 +1,27 @@
+{
+  "_whatThisFileIs": "https://developers.google.com/web/fundamentals/web-app-manifest",
+  "short_name": "RecruiterDeck",
+  "name": "RecruiterDeck",
+  "icons": [
+    {
+      "src": "images/needLogo.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "images/needLogo.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "images/needLogo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/",
+  "theme_color": "#22beef",
+  "background_color": "#22beef",
+  "display": "standalone",
+  "orientation": "portrait"
+}
